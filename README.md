@@ -1,1 +1,1 @@
-Principle component analysis, clustering and partial least square Analysis for coffee, based on Ref.Food Chemistry 66 (1999) 365-370
+Principle component analysis, clustering and partial least square Analysis for coffee, based on Ref.Food Chemistry 66 (1999) 365-370. Using Matlab codes the groups of coffees can be distinguished based on the metal contents. 
